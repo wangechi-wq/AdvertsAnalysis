@@ -10,7 +10,10 @@ As a Data Science Expert, I have by a Kenyan Entrepreneur to determine which ind
 Required Tools
 
 R-Basics & RStudio
+
 Import neccesary tools such as dplyr, ggplot.
+
 Necessary tools for tidying the dataset
+
 Exploratory Data Analysis i.e Univariate and Bivariate analysis
 
